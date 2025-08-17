@@ -1,6 +1,7 @@
 # 💫 About Me:
-I'm a passionate software developer with experience in **Web Development** and **AI-driven applications**. I enjoy building innovative projects and leveraging modern tools like **React.js**, **Tailwind CSS**, and **Python** to create impactful solutions.<br><br>
-I'm always eager to learn, contribute to open-source, and collaborate on challenging projects. Let's build something awesome together! 🚀
+Hi, I'm Himanshu! I'm a passionate software developer with experience in **Web Development** and **AI-driven applications**. I love building creative projects and leveraging modern tools like **React.js**, **Tailwind CSS**, and **Python** to craft meaningful solutions.  
+
+I'm always excited to learn, contribute to open-source, and collaborate on challenging projects. Let's create something amazing together! 🚀
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -15,15 +16,15 @@ I'm always eager to learn, contribute to open-source, and collaborate on challen
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Arnavsao&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Arnavsao&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arnavsao&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Himanshu-137&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Himanshu-137&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu-137&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Arnavsao&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Himanshu-137&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Arnavsao&icon=0&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Himanshu-137&icon=0&color=3)](https://visitcount.itsvg.in)
